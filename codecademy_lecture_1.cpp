@@ -1,1 +1,1 @@
-main () {};
+main () {}; // this code is great
