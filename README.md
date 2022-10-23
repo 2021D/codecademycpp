@@ -1,5 +1,5 @@
 # codecademycpp
-code cademy c++ blah
+code cademy c++ blahs
 this is more
 This repository contains code from my CodeCademy c++ lessons
 .
