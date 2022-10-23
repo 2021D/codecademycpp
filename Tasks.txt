@@ -1,0 +1,8 @@
+(1) Create a new file called 'dashatasks.txt'
+(2) Add some tasks to it
+(3) Commit it locally (stage then commit)
+(4) make some changes to it
+(5) check what the changes are
+(6) commit those changes
+(7) push those changes
+(8) delete the file and push this changes
