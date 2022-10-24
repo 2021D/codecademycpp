@@ -6,3 +6,4 @@
 (6) commit those changes
 (7) push those changes
 (8) delete the file and push this changes
+i want to delete this file
